@@ -22,8 +22,8 @@ footer {
     text-align: center;
 }
 
-div.footer(
+.footer{
   margin-top: -100px;
   height:100px
 
-  )
+}
