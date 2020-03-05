@@ -1,7 +1,8 @@
-html {
+body, html {
   background-image: url(/images/background.jpg) ;
   background-repeat: no-repeat;
     background-size: 100% auto;
+    height:100%;
 }
 h1 {
     color: blue;
@@ -20,3 +21,9 @@ footer {
     background-color: rgba(0,0,0,1);
     text-align: center;
 }
+
+div.footer(
+  margin-top: -100px;
+  height:100px
+
+  )
