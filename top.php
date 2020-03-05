@@ -21,26 +21,3 @@
   <script async defer src="https://connect.facebook.net/en_US/sdk.js"></script>
   <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=218240626043052&autoLogAppEvents=1"></script>
-<nav class="navbar navbar-expand-sm bg-dark navbar-light fixed-top">
-  <ul class="navbar-nav">
-    <li class="navbar-brand">
-      <a class="navbar-brand" href="index.html">Manuka Beehive Honey Tours</a>
-    </li>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-   <span class="navbar-toggler-icon"></span>
-    </button>
-    <li class="nav-item">
-      <a class="nav-link" href="#">Link</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#">Link 3</a>
-    </li>
-  </ul>
-</nav>
-<p>This is a paragraph.</p>
-
-</body>
-<footer>@2020 Manuka Beehive Honey Tours <div class="fb-like" data-href="https://www.facebook.com/manukahoneytours" data-width="" data-layout="standard" data-action="like" data-size="small" data-share="true"></div> <a href="privacy.html">Privacy Policy</a>
-
-</footer>
-</html>
