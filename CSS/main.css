@@ -9,4 +9,13 @@ h1 {
 p {
     color: orange;
 }
-
+footer {
+    padding-top:10px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    background-color: rgba(0,0,0,1);
+    text-align: center;
+}
