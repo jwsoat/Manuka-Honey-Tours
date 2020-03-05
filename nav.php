@@ -7,10 +7,10 @@
    <span class="navbar-toggler-icon"></span>
     </button>
     <li class="nav-item">
-      <a class="nav-link" href="">Link</a>
+      <a class="nav-link" href="about.php">About Us</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Link 3</a>
+      <a class="nav-link" href="price.php">Prices</a>
     </li>
   </ul>
 </nav>
